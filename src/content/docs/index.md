@@ -8,8 +8,8 @@ hero:
     - text: Introduction
       link: /000-introduction
       variant: primary
-    - text: Learn More
-      link: /features
+    - text: Roadmap
+      link: /roadmap
 ---
 
 # The Core Concept
